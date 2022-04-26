@@ -1,4 +1,4 @@
-# GlutenFree
+# Gluten Free Tool
  Application that utilizies open food facts API to easily check ingredients for gluten.
 
 # Technologies Used
