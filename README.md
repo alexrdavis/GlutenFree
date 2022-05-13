@@ -13,6 +13,7 @@ Use this application to either fast check if a food item is gluten free or to ch
 # How to Use
 Use a 12 digit barcode and enter it in the input field, if product does not have 12 digits leading 0s will typically work as an alternative.
 
-#Demo
+# Demo
 https://alexrdavis.github.io/GlutenFree/
-Test barcode: 737628064502
+
+Workable barcode for testing: 737628064502
